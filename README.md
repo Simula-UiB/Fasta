@@ -1,2 +1,2 @@
 # Fasta
-Code for timing run times of Fasta and Rasta in HElib
+This repository conatins code for timing implementations of Fasta and some Rasta variants in HElib.  The code requires HElib (and NTL (and GMP)) to already be installed on the machine where it is run.  Otherwise, to run the timing experiments one only needs to compile the .cpp files in the various folders.  Note that the packed version of Rasta has a 329-bit block size in order to match the number of slots in a BGV ciphertext with m=30269, while the bit-sliced version uses the original 351-bit block size.
