@@ -1,0 +1,82 @@
+[ 09:43:49 ] WARNING: CheckPrimes: non-FFT prime in smallPrimes
+[ 09:43:49 ] WARNING: CheckPrimes: non-FFT prime in smallPrimes
+[ 09:43:53 ] WARNING: KS-noise-ratio=12.033050
+
+[ 10:04:25 ] WARNING: CheckPrimes: non-FFT prime in smallPrimes
+[ 10:04:25 ] WARNING: CheckPrimes: non-FFT prime in smallPrimes
+[ 10:04:30 ] WARNING: KS-noise-ratio=11.213944
+
+[ 19:57:05 ] WARNING: ctxtPrimeSize: non-optimal targetSize
+[ 19:57:05 ] WARNING: CheckPrimes: non-FFT prime in smallPrimes
+[ 19:57:05 ] WARNING: CheckPrimes: non-FFT prime in smallPrimes
+[ 19:57:07 ] WARNING: KS-noise-ratio=470.959453
+
+[ 19:57:34 ] WARNING: getSet4Size: no matching IndexSet found, likely decryption error
+[ 19:57:34 ] WARNING: Ctxt::bringToSet called with capacity=-38.853616, likely decryption error
+[ 19:57:34 ] WARNING: Ctxt::bringToSet called with capacity=-38.853616, likely decryption error
+[ 19:57:34 ] WARNING: getSet4Size: no matching IndexSet found, likely decryption error
+[ 19:57:34 ] WARNING: Ctxt::bringToSet called with capacity=-38.853616, likely decryption error
+[ 19:57:34 ] WARNING: Ctxt::bringToSet called with capacity=-38.853616, likely decryption error
+[ 19:57:35 ] WARNING: getSet4Size: no matching IndexSet found, likely decryption error
+[ 19:57:35 ] WARNING: Ctxt::bringToSet called with capacity=-38.853616, likely decryption error
+[ 19:57:35 ] WARNING: Ctxt::bringToSet called with capacity=-38.853616, likely decryption error
+[ 19:57:35 ] WARNING: getSet4Size: no matching IndexSet found, likely decryption error
+[ 19:57:35 ] WARNING: Ctxt::bringToSet called with capacity=-38.853616, likely decryption error
+[ 19:57:35 ] WARNING: Ctxt::bringToSet called with capacity=-38.853616, likely decryption error
+[ 19:57:35 ] WARNING: getSet4Size: no matching IndexSet found, likely decryption error
+[ 19:57:35 ] WARNING: Ctxt::bringToSet called with capacity=-38.853616, likely decryption error
+[ 19:57:35 ] WARNING: Ctxt::bringToSet called with capacity=-38.853616, likely decryption error
+[ 19:58:13 ] WARNING: KS-noise-ratio=239.499331
+
+[ 19:59:11 ] WARNING: ctxtPrimeSize: non-optimal targetSize
+[ 19:59:12 ] WARNING: CheckPrimes: non-FFT prime in smallPrimes
+[ 19:59:12 ] WARNING: CheckPrimes: non-FFT prime in smallPrimes
+[ 19:59:15 ] WARNING: KS-noise-ratio=237.398694
+
+[ 17:31:22 ] WARNING: ctxtPrimeSize: non-optimal targetSize
+[ 17:31:22 ] WARNING: CheckPrimes: non-FFT prime in smallPrimes
+[ 17:31:22 ] WARNING: CheckPrimes: non-FFT prime in smallPrimes
+[ 17:32:56 ] WARNING: ctxtPrimeSize: non-optimal targetSize
+[ 17:32:56 ] WARNING: CheckPrimes: non-FFT prime in smallPrimes
+[ 17:32:56 ] WARNING: CheckPrimes: non-FFT prime in smallPrimes
+[ 09:38:33 ] WARNING: ctxtPrimeSize: non-optimal targetSize
+[ 09:49:27 ] WARNING: ctxtPrimeSize: non-optimal targetSize
+[ 09:49:27 ] WARNING: KS-noise-ratio=1652.757831
+
+[ 11:57:23 ] WARNING: CheckPrimes: non-FFT prime in smallPrimes
+[ 11:57:23 ] WARNING: CheckPrimes: non-FFT prime in smallPrimes
+[ 11:57:28 ] WARNING: KS-noise-ratio=22.979070
+
+[ 11:57:28 ] WARNING: KS-noise-ratio=23.875717
+
+[ 11:57:28 ] WARNING: KS-noise-ratio=1.016313
+
+[ 12:02:13 ] WARNING: ctxtPrimeSize: non-optimal targetSize
+[ 12:02:14 ] WARNING: CheckPrimes: non-FFT prime in smallPrimes
+[ 12:02:14 ] WARNING: CheckPrimes: non-FFT prime in smallPrimes
+[ 12:02:17 ] WARNING: KS-noise-ratio=543.533316
+
+[ 12:02:17 ] WARNING: KS-noise-ratio=558.009315
+
+[ 08:59:41 ] WARNING: CheckPrimes: non-FFT prime in smallPrimes
+[ 08:59:41 ] WARNING: CheckPrimes: non-FFT prime in smallPrimes
+[ 08:59:46 ] WARNING: KS-noise-ratio=21.499069
+
+[ 08:59:46 ] WARNING: KS-noise-ratio=22.094844
+
+[ 09:14:09 ] WARNING: CheckPrimes: non-FFT prime in smallPrimes
+[ 09:14:09 ] WARNING: CheckPrimes: non-FFT prime in smallPrimes
+[ 09:14:13 ] WARNING: KS-noise-ratio=23.801606
+
+[ 09:14:13 ] WARNING: KS-noise-ratio=24.768205
+
+[ 09:14:13 ] WARNING: KS-noise-ratio=22.303450
+
+[ 09:05:54 ] WARNING: CheckPrimes: non-FFT prime in smallPrimes
+[ 09:05:54 ] WARNING: CheckPrimes: non-FFT prime in smallPrimes
+[ 09:05:59 ] WARNING: KS-noise-ratio=22.108859
+
+[ 09:05:59 ] WARNING: KS-noise-ratio=21.845257
+
+[ 09:05:59 ] WARNING: KS-noise-ratio=22.126927
+
